@@ -1,0 +1,1 @@
+The Task Manager App is a simple web application built with Node.js, Express, and MongoDB using Mongoose. It allows users to create, read, update, and delete tasks. This application serves as a basic example of a RESTful API.
